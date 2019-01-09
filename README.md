@@ -1,7 +1,7 @@
 **This code enables scraping job posts from Indeed Israel.** In order to change the country, change "il" to "www" in urls in rows 40 and 123.
 The purpose of the code was to be able to get a Dataset that captures different jobs posts from Indeed that can be analyzed to understand the job market demand, in terms of job titles, skills, industries and locations.
 
-This code is a revised version of [Zeus Habash's repository](https://github.com/zeus-habash/Scraping-jobs-from-Indeed) of code to scrape indeed.com, adapted to Python 3 and to some changes in html elements on Indeed website. Furthermore handled a few errors.
+This code is a revised version of [Zeus Habash's repository](https://github.com/zeus-habash/Scraping-jobs-from-Indeed) of code to scrape indeed.com, adapted to Python 3 and to some changes in html elements on Indeed website. Furthermore a few other errors were handled.
 
 **"The code structure**
 * Importing needed packages.
