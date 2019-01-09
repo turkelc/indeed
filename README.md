@@ -17,6 +17,7 @@ This code is a revised version of [Zeus Habash's repository](https://github.com/
 * Phase 4 - Classifying jobs: This code classifies the jobs into different categories: Job title, Business Function / Department, and city.
 
 **What to do with the searches and keywords CSV files**
+
 These files act as inputs for the code, to make it easier to edit based on need.
 
 You should edit your searches and desired keywords based on your need before running the python code.
