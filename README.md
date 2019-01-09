@@ -55,4 +55,4 @@ The code will track time needed for each phase in the code and will give you a s
 * Phase 3 took 00:04:45
 * Phase 4 took 00:00:15
 * The code ran for 04:25:11
-Several job searches will show duplicate job posts, but do not worry the code will filter duplicate jobs twice: First after Phase 1: Removing jobs with the same job link. Second after Phase 2: Removing jobs with the same job body of text."
+"
